@@ -1,6 +1,5 @@
 import {Component} from "@angular/core";
-
-
+import {Todo} from "./shared/todo";
 @Component({
     selector: 'app',
     moduleId: module.id,
